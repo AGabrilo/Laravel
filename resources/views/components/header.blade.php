@@ -18,6 +18,6 @@
     </ul>
     <form class="form-inline my-2 my-lg-0" type="get" action="{{url('/search')}}">
 <input class="form-control mr-sm-2" name="query" type="search" placeholder="Search student" aria-label="Search"/>
-<button type="submit" class="btn btn-outline-success my-2 my-sm-0 ">Search</button>
+<button type="submit" class="btn btn-outline-success my-2 my-sm-0 ">Search</button> </form>
   </div>
 </nav>
